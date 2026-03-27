@@ -74,3 +74,5 @@ After understanding this program, you will learn:
 How to detect duplicates in a list
 How sets help in solving problems efficiently
 How to use loops and conditions together
+
+<img width="520" height="796" alt="image" src="https://github.com/user-attachments/assets/8f4ccab5-af0a-44e4-9cff-e606c99b8743" />
