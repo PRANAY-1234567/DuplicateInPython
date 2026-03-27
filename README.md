@@ -67,10 +67,10 @@ lst = [1, 2, 3, 2, 4, 1]
 duplicates = [x for x in lst if lst.count(x) > 1]
 
 print(set(duplicates))
+
 📚 Learning Outcome
 
 After understanding this program, you will learn:
-
 How to detect duplicates in a list
 How sets help in solving problems efficiently
 How to use loops and conditions together
